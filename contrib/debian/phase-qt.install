@@ -1,0 +1,6 @@
+usr/local/bin/phase-qt usr/bin
+share/pixmaps/phase32.xpm usr/share/pixmaps
+share/pixmaps/phase16.xpm usr/share/pixmaps
+share/pixmaps/phase128.png usr/share/pixmaps
+debian/phase-qt.desktop usr/share/applications
+debian/phase-qt.protocol usr/share/kde4/services/

@@ -1,0 +1,22 @@
+[Unit]
+Description=Proton's distributed currency daemon
+After=network.target
+
+[Service]
+User=phasecore
+Group=phasecore
+
+Type=forking
+PIDFile=/var/lib/phased/phased.pid
+ExecStart=/usr/bin/phased -daemon -pid=/var/lib/phased/phased.pid \
+-conf=/etc/phasecore/phase.conf -datadir=/var/lib/phased -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

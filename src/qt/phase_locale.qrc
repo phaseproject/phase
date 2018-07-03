@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/phase_bg.qm</file>
+        <file alias="de">locale/phase_de.qm</file>
+        <file alias="en">locale/phase_en.qm</file>
+        <file alias="es">locale/phase_es.qm</file>
+        <file alias="fi">locale/phase_fi.qm</file>
+        <file alias="fr">locale/phase_fr.qm</file>
+        <file alias="it">locale/phase_it.qm</file>
+        <file alias="ja">locale/phase_ja.qm</file>
+        <file alias="pl">locale/phase_pl.qm</file>
+        <file alias="pt">locale/phase_pt.qm</file>
+        <file alias="ru">locale/phase_ru.qm</file>
+        <file alias="sk">locale/phase_sk.qm</file>
+        <file alias="sv">locale/phase_sv.qm</file>
+        <file alias="vi">locale/phase_vi.qm</file>
+        <file alias="zh_CN">locale/phase_zh_CN.qm</file>
+        <file alias="zh_TW">locale/phase_zh_TW.qm</file>
+    </qresource>
+</RCC>
