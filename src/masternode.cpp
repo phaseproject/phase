@@ -237,11 +237,13 @@ void CMasternode::Check(bool fForce)
 
     int nActiveStatePrev = nActiveState;
     bool fOurMasternode = fMasterNode && activeMasternode.pubKeyMasternode == pubKeyMasternode;
-
+    int protonChangeBlock = LEVEL_COLLATERAL_START_HEIGHT + 1000;
+	int height = chainActive.Height();
+	int qualifiedVerision = height > protonChangeBlock ? PROTOCOL_VERSION : OLD_PEER_PROTO_VERSION;
                    // masternode doesn't meet payment protocol requirements ...
     bool fRequireUpdate = nProtocolVersion < mnpayments.GetMinMasternodePaymentsProto() ||
                    // or it's our own node and we just updated it to the new protocol but we are still waiting for activation ...
-                   (fOurMasternode && nProtocolVersion < PROTOCOL_VERSION);
+                   (fOurMasternode && nProtocolVersion < qualifiedVerision);
 
     if(fRequireUpdate) {
         nActiveState = MASTERNODE_UPDATE_REQUIRED;
