@@ -1,10 +1,10 @@
 qt/qt_libbitcoinqt_a-moc_clientmodel.o: qt/moc_clientmodel.cpp \
  qt/clientmodel.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/cstddef \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/x86_64-w64-mingw32/bits/os_defines.h \
@@ -18,11 +18,11 @@ qt/qt_libbitcoinqt_a-moc_clientmodel.o: qt/moc_clientmodel.cpp \
  /usr/share/mingw-w64/include/vadefs.h \
  /usr/share/mingw-w64/include/sdks/_mingw_directx.h \
  /usr/share/mingw-w64/include/sdks/_mingw_ddk.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/utility \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/stl_relops.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/stl_pair.h \
@@ -67,23 +67,23 @@ qt/qt_libbitcoinqt_a-moc_clientmodel.o: qt/moc_clientmodel.cpp \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/memoryfwd.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/uniform_int_dist.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/limits \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_x86.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_x86.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h \
  /usr/share/mingw-w64/include/string.h \
  /usr/share/mingw-w64/include/sec_api/string_s.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/stdarg.h \
@@ -133,9 +133,9 @@ qt/qt_libbitcoinqt_a-moc_clientmodel.o: qt/moc_clientmodel.cpp \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/functional_hash.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/hash_bytes.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/basic_string.tcc \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/iterator \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/ostream \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/ios \
@@ -165,15 +165,15 @@ qt/qt_libbitcoinqt_a-moc_clientmodel.o: qt/moc_clientmodel.cpp \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/allocated_ptr.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/ext/aligned_buffer.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/list.tcc \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/vector \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/stl_uninitialized.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/stl_vector.h \
@@ -186,26 +186,26 @@ qt/qt_libbitcoinqt_a-moc_clientmodel.o: qt/moc_clientmodel.cpp \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/array \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/uses_allocator.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/stl_multimap.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QDateTime \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/QDateTime \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/numeric \
  /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/stl_numeric.h
 
 qt/clientmodel.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/QObject:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qnamespace.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobal.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/cstddef:
 
@@ -233,15 +233,15 @@ qt/clientmodel.h:
 
 /usr/share/mingw-w64/include/sdks/_mingw_ddk.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qconfig.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qfeatures.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qsystemdetection.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qprocessordetection.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qcompilerdetection.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/utility:
 
@@ -331,39 +331,39 @@ qt/clientmodel.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/limits:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypeinfo.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qtypetraits.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qsysinfo.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qlogging.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qflags.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qbasicatomic.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_x86.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qatomic_x86.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qgenericatomic.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qglobalstatic.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qnumeric.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qobjectdefs_impl.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qstring.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qchar.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearray.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qrefcount.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qarraydata.h:
 
 /usr/share/mingw-w64/include/string.h:
 
@@ -463,11 +463,11 @@ qt/clientmodel.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/basic_string.tcc:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qlist.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qalgorithms.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qiterator.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/iterator:
 
@@ -527,23 +527,23 @@ qt/clientmodel.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/list.tcc:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qbytearraylist.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringlist.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qregexp.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qstringmatcher.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qscopedpointer.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qmetatype.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qvarlengtharray.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qcontainerfwd.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qisenum.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/vector:
 
@@ -569,17 +569,17 @@ qt/clientmodel.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/bits/stl_multimap.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qobject_impl.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/QDateTime:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/QDateTime:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qdatetime.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qshareddata.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qhash.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/QtCore/qpair.h:
 
 /usr/lib/gcc/x86_64-w64-mingw32/6.3-win32/include/c++/numeric:
 
