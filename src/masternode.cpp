@@ -162,8 +162,16 @@ arith_uint256 CMasternode::CalculateScore(const uint256& blockHash)
     CCoins coins;
    	pcoinsTip->GetCoins(vin.prevout.hash, coins);
    	int height = chainActive.Height();
-   	CAmount collateral = coins.vout[vin.prevout.n].nValue;
-   	Level mnLevel = getMasternodeLevel(collateral, height);
+   	Level mnLevel;
+	if(vin.prevout.n >= coins.vout.size()) {
+		height = NULL_LEVEL;
+	} else {
+		CAmount collateral = coins.vout[vin.prevout.n].nValue;
+		//LogPrintf("CalculateScore(): getting masternode level\n");
+		mnLevel = getMasternodeLevel(collateral, height);
+	}
+  // 	CAmount collateral = coins.vout[vin.prevout.n].nValue;
+  // 	Level mnLevel = getMasternodeLevel(collateral, height);
    	switch(mnLevel) {
    	case LEVEL1:
    	case LEVEL2:
