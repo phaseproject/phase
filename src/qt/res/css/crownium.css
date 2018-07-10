@@ -1,5 +1,5 @@
 WalletFrame {
-border-image: url(':/images/drkblue/drkblue_walletFrame_bg') 0 0 0 0 stretch stretch;
+border-image: url(':/images/crownium/drkblue_walletFrame_bg') 0 0 0 0 stretch stretch;
 border-top:0px solid #000;
 margin:0;
 padding:0;
@@ -151,7 +151,7 @@ border:0px;
 }
 
 QComboBox::down-arrow {
-border-image: url(':/images/drkblue/drkblue_downArrow') 0 0 0 0 stretch stretch;
+border-image: url(':/images/crownium/drkblue_downArrow') 0 0 0 0 stretch stretch;
 }
 
 QComboBox QListView {
@@ -206,7 +206,7 @@ padding-top:2px;
 }
 
 QAbstractSpinBox::up-arrow {
-image:url(':/images/drkblue/drkblue_upArrow_small');
+image:url(':/images/crownium/drkblue_upArrow_small');
 }
 
 QAbstractSpinBox::down-button {
@@ -224,7 +224,7 @@ padding-bottom:2px;
 }
 
 QAbstractSpinBox::down-arrow {
-image:url(':/images/drkblue/drkblue_downArrow_small');
+image:url(':/images/crownium/drkblue_downArrow_small');
 }
 
 QCheckBox {
@@ -237,35 +237,35 @@ height: 16px;
 }
 
 QCheckBox::indicator:unchecked {
-image:url(':/images/drkblue/unchecked');
+image:url(':/images/crownium/unchecked');
 }
 
 QCheckBox::indicator:unchecked:hover {
-image:url(':/images/drkblue/unchecked');
+image:url(':/images/crownium/unchecked');
 }
 
 QCheckBox::indicator:unchecked:pressed {
-image:url(':/images/drkblue/checked');
+image:url(':/images/crownium/checked');
 }
 
 QCheckBox::indicator:checked {
-image:url(':/images/drkblue/checked');
+image:url(':/images/crownium/checked');
 }
 
 QCheckBox::indicator:checked:hover {
-image:url(':/images/drkblue/checked');
+image:url(':/images/crownium/checked');
 }
 
 QCheckBox::indicator:checked:pressed {
-image:url(':/images/drkblue/unchecked');
+image:url(':/images/crownium/unchecked');
 }
 
 QCheckBox::indicator:indeterminate:hover {
-image:url(':/images/drkblue/unchecked');
+image:url(':/images/crownium/unchecked');
 }
 
 QCheckBox::indicator:indeterminate:pressed {
-image:url(':/images/drkblue/checked');
+image:url(':/images/crownium/checked');
 }
 
 /*******************************************************/
@@ -384,19 +384,19 @@ height:10px;
 }
 
 QScrollBar:up-arrow {
-background-image: url(':/images/drkblue/drkblue_upArrow_small');
+background-image: url(':/images/crownium/drkblue_upArrow_small');
 }
 
 QScrollBar:down-arrow {
-background-image: url(':/images/drkblue/drkblue_downArrow_small');
+background-image: url(':/images/crownium/drkblue_downArrow_small');
 }
 
 QScrollBar:left-arrow {
-background-image: url(':/images/drkblue/drkblue_leftArrow_small');
+background-image: url(':/images/crownium/drkblue_leftArrow_small');
 }
 
 QScrollBar:right-arrow {
-background-image: url(':/images/drkblue/drkblue_rightArrow_small');
+background-image: url(':/images/crownium/drkblue_rightArrow_small');
 }
 
 
@@ -1124,7 +1124,7 @@ min-width:410px;
 margin-right:20px;
 margin-left:0;
 margin-top:0;
-background-image: url(':/images/drkblue/phase_logo_horizontal');
+background-image: url(':/images/crownium/phase_logo_horizontal');
 background-repeat:none;
 }
 
@@ -1132,7 +1132,7 @@ QWidget .QFrame#frame_2 .QLabel#label_4 { /* Recent Transactions Label */
 min-width:180px;
 color:#8F0B5A;
 margin-left:67px;
-margin-top:83px;
+margin-top:110px;
 margin-right:5px;
 padding-right:5px;
 font-weight:bold;
@@ -1456,7 +1456,7 @@ color:#333;
 }
 
 QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::branch:selected { /* Coin Control Branch Icon */
-background-image: url(':/images/drkblue/drkblue_qtreeview_selected');
+background-image: url(':/images/crownium/drkblue_qtreeview_selected');
 background-repeat:no-repeat;
 background-position:center;
 background-color:#f7f7f7;
@@ -1464,7 +1464,7 @@ color:#333;
 }
 
 QDialog#CoinControlDialog .CoinControlTreeWidget#treeWidget::branch:checked { /* Coin Control Branch Icon */
-background-image: url(':/images/drkblue/drkblue_qtreeview_selected');
+background-image: url(':/images/crownium/drkblue_qtreeview_selected');
 background-repeat:no-repeat;
 background-position:center;
 background-color:#f7f7f7;
