@@ -29,7 +29,7 @@ class QUrl;
 class QWidget;
 QT_END_NAMESPACE
 
-/** Utility functions used by the Proton Qt UI.
+/** Utility functions used by the Phase Qt UI.
  */
 namespace GUIUtil
 {

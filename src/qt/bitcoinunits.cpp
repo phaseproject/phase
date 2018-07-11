@@ -73,10 +73,10 @@ QString BitcoinUnits::description(int unit)
     {
         switch(unit)
         {
-            case PHASE: return QString("Proton");
-            case mPHASE: return QString("Milli-Proton (1 / 1" THIN_SP_UTF8 "000)");
-            case uPHASE: return QString("Micro-Proton (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
-            case duffs: return QString("Ten Nano-Proton (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            case PHASE: return QString("Phase");
+            case mPHASE: return QString("Milli-Phase (1 / 1" THIN_SP_UTF8 "000)");
+            case uPHASE: return QString("Micro-Phase (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            case duffs: return QString("Ten Nano-Phase (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
             default: return QString("???");
         }
     }
@@ -84,10 +84,10 @@ QString BitcoinUnits::description(int unit)
     {
         switch(unit)
         {
-            case PHASE: return QString("TestProtons");
-            case mPHASE: return QString("Milli-TestProton (1 / 1" THIN_SP_UTF8 "000)");
-            case uPHASE: return QString("Micro-TestProton (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
-            case duffs: return QString("Ten Nano-TestProton (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            case PHASE: return QString("TestPhases");
+            case mPHASE: return QString("Milli-TestPhase (1 / 1" THIN_SP_UTF8 "000)");
+            case uPHASE: return QString("Micro-TestPhase (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            case duffs: return QString("Ten Nano-TestPhase (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
             default: return QString("???");
         }
     }

@@ -62,11 +62,11 @@
         <translation>收款位址</translation>
     </message>
     <message>
-        <source>These are your Proton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Phase addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>這些是你要付款過去的達世幣位址。在付錢之前，務必要檢查金額和收款位址是否正確。</translation>
     </message>
     <message>
-        <source>These are your Proton addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Phase addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>這些是你用來收款的達世幣位址。建議在每次交易時，都使用一個新的收款位址。</translation>
     </message>
     <message>
@@ -262,7 +262,7 @@
         <translation>發送(&amp;S)</translation>
     </message>
     <message>
-        <source>Send coins to a Proton address</source>
+        <source>Send coins to a Phase address</source>
         <translation>付錢給一個達世幣位址</translation>
     </message>
     <message>
@@ -366,7 +366,7 @@
         <translation>簽署訊息(&amp;M)...</translation>
     </message>
     <message>
-        <source>Sign messages with your Proton addresses to prove you own them</source>
+        <source>Sign messages with your Phase addresses to prove you own them</source>
         <translation>用達世幣位址簽署訊息來證明位址是你的</translation>
     </message>
     <message>
@@ -374,7 +374,7 @@
         <translation>驗證訊息(&amp;V)...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Proton addresses</source>
+        <source>Verify messages to ensure they were signed with specified Phase addresses</source>
         <translation>驗證訊息是用來確定訊息是用指定的達世幣位址簽署的</translation>
     </message>
     <message>
@@ -486,7 +486,7 @@
         <translation>分頁工具列</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Proton network</source>
+        <source>%n active connection(s) to Phase network</source>
         <translation><numerusform>%n 個運作中的達世幣網路連線</numerusform></translation>
     </message>
     <message>
@@ -945,15 +945,15 @@
         <translation>匿名發送配置</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
+        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Phase's configuration screen.</source>
         <translation>匿名發送已成功設置為一般(%1 到2次循環)。你可以隨時打開達世幣配置窗口來修改。</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
+        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Phase's configuration screen.</source>
         <translation>匿名發送已成功設置為高(%1 到8次循環)。你可以隨時打開達世幣配置窗口來修改。</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
+        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Phase's configuration screen.</source>
         <translation>匿名發送已成功設置為最高(%1 到16次循環)。你可以隨時打開達世幣配置窗口來修改。</translation>
     </message>
 </context>
@@ -996,7 +996,7 @@
         <translation>編輯付款位址</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Proton address.</source>
+        <source>The entered address "%1" is not a valid Phase address.</source>
         <translation>輸入的位址 %1 並不是有效的達世幣位址。</translation>
     </message>
     <message>
@@ -1113,7 +1113,7 @@
         <translation>因為這是程式第一次啓動，你可以選擇達世幣核心儲存資料的地方。</translation>
     </message>
     <message>
-        <source>Phase Core will download and store a copy of the Proton block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Phase Core will download and store a copy of the Phase block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>達世幣核心會下載並儲存一份達世幣區塊鏈的副本。至少有 %1GB 的資料會儲存到這個目錄中，並且還會持續增長。另外錢包資料也會儲存在這個目錄。</translation>
     </message>
     <message>
@@ -1294,7 +1294,7 @@
         <translation>(0 表示程式自動決定，小於 0 表示保留處理器核心不用的數目)</translation>
     </message>
     <message>
-        <source>Amount of Proton to keep anonymized</source>
+        <source>Amount of Phase to keep anonymized</source>
         <translation>保持匿名的達世幣數量</translation>
     </message>
     <message>
@@ -1338,7 +1338,7 @@
         <translation>接受外來連線</translation>
     </message>
     <message>
-        <source>Connect to the Proton network through a SOCKS5 proxy.</source>
+        <source>Connect to the Phase network through a SOCKS5 proxy.</source>
         <translation>透過 SOCKS5 代理伺服器來連線到達世幣網路。</translation>
     </message>
     <message>
@@ -1414,7 +1414,7 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Proton network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <source>Connect to the Phase network through a separate SOCKS5 proxy for Tor hidden services.</source>
         <translation>透過另一個SOCKS5 代理伺服器作為Tor隱藏服務來連線到達世幣網路。</translation>
     </message>
     <message>
@@ -1523,7 +1523,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>表單</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Proton network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Phase network after a connection is established, but this process has not completed yet.</source>
         <translation>顯示的資訊可能是過期的。跟達世幣網路的連線建立後，你的錢包會自動和網路同步，但是這個步驟還沒完成。</translation>
     </message>
     <message>
@@ -1800,7 +1800,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>無效的付款位址 %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Proton address or malformed URI parameters.</source>
+        <source>URI cannot be parsed! This can be caused by an invalid Phase address or malformed URI parameters.</source>
         <translation>沒辦法解析 URI 位址！可能是因為達世幣位址無效，或是 URI 參數格式錯誤。</translation>
     </message>
     <message>
@@ -1878,7 +1878,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>金額</translation>
     </message>
     <message>
-        <source>Enter a Proton address (e.g. %1)</source>
+        <source>Enter a Phase address (e.g. %1)</source>
         <translation>輸入達世幣位址 (例如 %1)</translation>
     </message>
     <message>
@@ -2243,7 +2243,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>重複使用現有的收款位址(不建議)(&amp;e)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Proton network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Phase network.</source>
         <translation>附加在付款要求中的訊息，可以不填，打開要求內容時會顯示。注意: 這個訊息不會隨著付款送到達世幣網路上。</translation>
     </message>
     <message>
@@ -2255,7 +2255,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>跟新收款位址關聯的標記，可以不填。</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Proton network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Phase network.</source>
         <translation>附加在付款要求中的訊息，可以不填，打開要求內容時會顯示。&lt;br&gt;注意: 這個訊息不會隨著付款送到達世幣網路上。</translation>
     </message>
     <message>
@@ -2704,7 +2704,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>交易被拒絕了！有時候會發生這種錯誤，是因為你錢包中的一些錢已經被花掉了。比如說你複製了錢包檔 wallet.dat, 然後用複製的錢包花掉了錢，你現在所用的原來的錢包中，卻沒有那筆錢已經花掉的紀錄。</translation>
     </message>
     <message>
-        <source>Warning: Invalid Proton address</source>
+        <source>Warning: Invalid Phase address</source>
         <translation>警告: 無效的達世幣位址</translation>
     </message>
     <message>
@@ -2727,7 +2727,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>付給:(&amp;T)</translation>
     </message>
     <message>
-        <source>The Proton address to send the payment to</source>
+        <source>The Phase address to send the payment to</source>
         <translation>接收付款的達世幣位址</translation>
     </message>
     <message>
@@ -2767,7 +2767,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>訊息:</translation>
     </message>
     <message>
-        <source>A message that was attached to the phase: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Proton network.</source>
+        <source>A message that was attached to the phase: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Phase network.</source>
         <translation>附加在達世幣付款協議 URI 中的訊息，會和交易內容一起存起來，給你自己做參考。注意: 這個訊息不會送到達世幣網路上。</translation>
     </message>
     <message>
@@ -2805,7 +2805,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>簽署訊息(&amp;S)</translation>
     </message>
     <message>
-        <source>The Proton address to sign the message with</source>
+        <source>The Phase address to sign the message with</source>
         <translation>用來簽署訊息的達世幣位址</translation>
     </message>
     <message>
@@ -2837,7 +2837,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>複製目前的簽章到系統剪貼簿</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Proton address</source>
+        <source>Sign the message to prove you own this Phase address</source>
         <translation>簽署這個訊息來證明這個達世幣位址是你的</translation>
     </message>
     <message>
@@ -2857,11 +2857,11 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>驗證訊息</translation>
     </message>
     <message>
-        <source>The Proton address the message was signed with</source>
+        <source>The Phase address the message was signed with</source>
         <translation>簽署這個訊息的達世幣位址</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Proton address</source>
+        <source>Verify the message to ensure it was signed with the specified Phase address</source>
         <translation>驗證這個訊息來確定是用指定的達世幣位址簽署的</translation>
     </message>
     <message>
@@ -4082,7 +4082,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>保留最多 &lt;n&gt; 個不可連接的交易於記憶體 (預設值: %u)</translation>
     </message>
     <message>
-        <source>Disable all Proton specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
+        <source>Disable all Phase specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
         <translation>禁止所有達世幣的附加功能 (主節點，匿名發送，即時到帳，預算案) (0-1，預設值: %u)</translation>
     </message>
     <message>

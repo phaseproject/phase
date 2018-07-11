@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.phase.Proton-Qt";
+        return @"org.phase.Phase-Qt";
     } else {
         return [self __bundleIdentifier];
     }

@@ -13,7 +13,7 @@ static const int MODEL_UPDATE_DELAY = 250;
 /* AskPassphraseDialog -- Maximum passphrase length */
 static const int MAX_PASSPHRASE_SIZE = 1024;
 
-/* ProtonGUI -- Size of icons in status bar */
+/* PhaseGUI -- Size of icons in status bar */
 static const int STATUSBAR_ICONSIZE = 16;
 
 static const bool DEFAULT_SPLASHSCREEN = true;
@@ -48,9 +48,9 @@ static const int MAX_URI_LENGTH = 255;
 /* Number of frames in spinner animation */
 #define SPINNER_FRAMES 36
 
-#define QAPP_ORG_NAME "Proton"
+#define QAPP_ORG_NAME "Phase"
 #define QAPP_ORG_DOMAIN "phasecoin.io"
-#define QAPP_APP_NAME_DEFAULT "Proton-Qt"
-#define QAPP_APP_NAME_TESTNET "Proton-Qt-testnet"
+#define QAPP_APP_NAME_DEFAULT "Phase-Qt"
+#define QAPP_APP_NAME_TESTNET "Phase-Qt-testnet"
 
 #endif // BITCOIN_QT_GUICONSTANTS_H

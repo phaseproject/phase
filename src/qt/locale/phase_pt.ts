@@ -62,12 +62,12 @@
         <translation>Endereços para recepção</translation>
     </message>
     <message>
-        <source>These are your Proton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estes são os endereços Proton para envio de pagamentos. Confirme sempre a quantia e o endereço antes de enviar as moedas.</translation>
+        <source>These are your Phase addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estes são os endereços Phase para envio de pagamentos. Confirme sempre a quantia e o endereço antes de enviar as moedas.</translation>
     </message>
     <message>
-        <source>These are your Proton addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estes são os seus endereços Proton para receber pagamentos. É recomendado que seja usado um novo endereço para cada transacção.</translation>
+        <source>These are your Phase addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estes são os seus endereços Phase para receber pagamentos. É recomendado que seja usado um novo endereço para cada transacção.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -188,8 +188,8 @@
         <translation>Carteira cifrada</translation>
     </message>
     <message>
-        <source>Proton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your phases from being stolen by malware infecting your computer.</source>
-        <translation>O cliente Proton irá fechar para finalizar o processo de cifra. Lembre-se que cifrar a sua carteira não consegue proteger totalmente as suas phases contra roubos feitos por malware presente no seu computador.</translation>
+        <source>Phase will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your phases from being stolen by malware infecting your computer.</source>
+        <translation>O cliente Phase irá fechar para finalizar o processo de cifra. Lembre-se que cifrar a sua carteira não consegue proteger totalmente as suas phases contra roubos feitos por malware presente no seu computador.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -255,8 +255,8 @@
         <translation>&amp;Enviar</translation>
     </message>
     <message>
-        <source>Send coins to a Proton address</source>
-        <translation>Enviar moedas para um endereço Proton</translation>
+        <source>Send coins to a Phase address</source>
+        <translation>Enviar moedas para um endereço Phase</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
@@ -303,8 +303,8 @@
         <translation>&amp;Opções...</translation>
     </message>
     <message>
-        <source>Modify configuration options for Proton</source>
-        <translation>Modificar opções de configuração do Proton</translation>
+        <source>Modify configuration options for Phase</source>
+        <translation>Modificar opções de configuração do Phase</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -355,16 +355,16 @@
         <translation>&amp;Assinar Mensagem</translation>
     </message>
     <message>
-        <source>Sign messages with your Proton addresses to prove you own them</source>
-        <translation>Assine mensagens com os seus endereços Proton para provar que são seus</translation>
+        <source>Sign messages with your Phase addresses to prove you own them</source>
+        <translation>Assine mensagens com os seus endereços Phase para provar que são seus</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Verificar Mensagem</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Proton addresses</source>
-        <translation>Verifica mensagens para garantir que foram assinadas com um endereço Proton específico</translation>
+        <source>Verify messages to ensure they were signed with specified Phase addresses</source>
+        <translation>Verifica mensagens para garantir que foram assinadas com um endereço Phase específico</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -459,7 +459,7 @@
         <translation><numerusform>%n bloco do histórico de transacções processado.</numerusform><numerusform>%n blocos do histórico de transacções processados.</numerusform></translation>
     </message>
     <message>
-        <source>Show the Phase Core help message to get a list with possible Proton command-line options</source>
+        <source>Show the Phase Core help message to get a list with possible Phase command-line options</source>
         <translation>Mostra a mensagem de ajuda do Phase Core para obter a lista com as possíveis opções de linha de comandos</translation>
     </message>
     <message>
@@ -483,8 +483,8 @@
         <translation>Barra de ferramentas</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Proton network</source>
-        <translation><numerusform>%n ligação activa à rede Proton</numerusform><numerusform>%n ligações activas à rede Proton</numerusform></translation>
+        <source>%n active connection(s) to Phase network</source>
+        <translation><numerusform>%n ligação activa à rede Phase</numerusform><numerusform>%n ligações activas à rede Phase</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -892,16 +892,16 @@ Endereço: %4
         <translation>Configuração Darksend</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend foi colocado com sucesso no modo básico (%1 e 2 voltas). Pode mudar esta definição em qualquer altura abrindo o ecrã de configuração Proton.</translation>
+        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Phase's configuration screen.</source>
+        <translation>Darksend foi colocado com sucesso no modo básico (%1 e 2 voltas). Pode mudar esta definição em qualquer altura abrindo o ecrã de configuração Phase.</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend foi colocado com sucesso no modo alto (%1 e 8 voltas). Pode mudar esta definição em qualquer altura abrindo o ecrã de configuração Proton.</translation>
+        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Phase's configuration screen.</source>
+        <translation>Darksend foi colocado com sucesso no modo alto (%1 e 8 voltas). Pode mudar esta definição em qualquer altura abrindo o ecrã de configuração Phase.</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend foi colocado com sucesso no modo máximo (%1 e 16 voltas). Pode mudar esta definição em qualquer altura abrindo o ecrã de configuração Proton.</translation>
+        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Phase's configuration screen.</source>
+        <translation>Darksend foi colocado com sucesso no modo máximo (%1 e 16 voltas). Pode mudar esta definição em qualquer altura abrindo o ecrã de configuração Phase.</translation>
     </message>
 </context>
 <context>
@@ -943,8 +943,8 @@ Endereço: %4
         <translation>Editar endereço de envio</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Proton address.</source>
-        <translation>O endereço introduzido "%1" não é um endereço Proton válido.</translation>
+        <source>The entered address "%1" is not a valid Phase address.</source>
+        <translation>O endereço introduzido "%1" não é um endereço Phase válido.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1052,8 +1052,8 @@ Endereço: %4
         <translation>Como esta é a primeira vez que o programa é executado, pode escolher onde o cliente Phase Core irá guardar os seus dados.</translation>
     </message>
     <message>
-        <source>Phase Core will download and store a copy of the Proton block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>O cliente Phase Core irá descarregar e guardar uma copia da cadeia de blocos Proton. Pelo menos %1GB de dados serão guardados nesta pasta e irá aumentar com o tempo. A carteira também ficará guardada nesta pasta.</translation>
+        <source>Phase Core will download and store a copy of the Phase block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>O cliente Phase Core irá descarregar e guardar uma copia da cadeia de blocos Phase. Pelo menos %1GB de dados serão guardados nesta pasta e irá aumentar com o tempo. A carteira também ficará guardada nesta pasta.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1118,12 +1118,12 @@ Endereço: %4
         <translation>&amp;Geral</translation>
     </message>
     <message>
-        <source>Automatically start Proton after logging in to the system.</source>
-        <translation>Executar automaticamente o cliente Proton quando entrar no sistema.</translation>
+        <source>Automatically start Phase after logging in to the system.</source>
+        <translation>Executar automaticamente o cliente Phase quando entrar no sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start Proton on system login</source>
-        <translation>&amp;Iniciar o cliente Proton ao entrar no sistema</translation>
+        <source>&amp;Start Phase on system login</source>
+        <translation>&amp;Iniciar o cliente Phase ao entrar no sistema</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1150,8 +1150,8 @@ Endereço: %4
         <translation>Esta quantia actua como um limite, a partir do qual o Darksend é desligado.</translation>
     </message>
     <message>
-        <source>Amount of Proton to keep anonymized</source>
-        <translation>Quantia de Proton a manter anonimizada</translation>
+        <source>Amount of Phase to keep anonymized</source>
+        <translation>Quantia de Phase a manter anonimizada</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -1170,8 +1170,8 @@ Endereço: %4
         <translation>Aceitar ligações de entrada</translation>
     </message>
     <message>
-        <source>Connect to the Proton network through a SOCKS5 proxy.</source>
-        <translation>Efectuar a ligação à rede Proton através de um proxy SOCKS5.</translation>
+        <source>Connect to the Phase network through a SOCKS5 proxy.</source>
+        <translation>Efectuar a ligação à rede Phase através de um proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1202,8 +1202,8 @@ Endereço: %4
         <translation>&amp;Rede</translation>
     </message>
     <message>
-        <source>Automatically open the Proton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abrir automaticamente a porta do cliente Proton no router. Isto só funciona quando o seu router suporta UPnP e este está activo.</translation>
+        <source>Automatically open the Phase client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abrir automaticamente a porta do cliente Phase no router. Isto só funciona quando o seu router suporta UPnP e este está activo.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1254,7 +1254,7 @@ Endereço: %4
         <translation>&amp;Linguagem do interface:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Proton.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Phase.</source>
         <translation>A linguagem do interface pode ser definida aqui. Esta definição terá efeito depois de reiniciar a aplicação.</translation>
     </message>
     <message>
@@ -1343,8 +1343,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>De</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Proton network after a connection is established, but this process has not completed yet.</source>
-        <translation>A informação mostrada pode estar desactualizada. A sua carteira sincroniza automaticamente com a rede Proton assim que for estabelecida uma ligação, mas este processo ainda não terminou.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Phase network after a connection is established, but this process has not completed yet.</source>
+        <translation>A informação mostrada pode estar desactualizada. A sua carteira sincroniza automaticamente com a rede Phase assim que for estabelecida uma ligação, mas este processo ainda não terminou.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1584,8 +1584,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Endereço de pagamento inválido %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Proton address or malformed URI parameters.</source>
-        <translation>O URI não pode ser carregado! Isto pode ser causado por um endereço Proton inválido ou parâmetros do URI incorrectos.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Phase address or malformed URI parameters.</source>
+        <translation>O URI não pode ser carregado! Isto pode ser causado por um endereço Phase inválido ou parâmetros do URI incorrectos.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -1670,8 +1670,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Quantia</translation>
     </message>
     <message>
-        <source>Enter a Proton address (e.g. %1)</source>
-        <translation>Insira um endereço Proton (ex. %1)</translation>
+        <source>Enter a Phase address (e.g. %1)</source>
+        <translation>Insira um endereço Phase (ex. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1760,8 +1760,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Número de ligações</translation>
     </message>
     <message>
-        <source>Open the Proton debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Abrir o ficheiro de registo de depuração Proton a partir da pasta de dados actual. Para grandes ficheiros de registo pode demorar alguns segundos.</translation>
+        <source>Open the Phase debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Abrir o ficheiro de registo de depuração Phase a partir da pasta de dados actual. Para grandes ficheiros de registo pode demorar alguns segundos.</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -1968,8 +1968,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Saída:</translation>
     </message>
     <message>
-        <source>Welcome to the Proton RPC console.</source>
-        <translation>Bem-vindo à consola RPC Proton</translation>
+        <source>Welcome to the Phase RPC console.</source>
+        <translation>Bem-vindo à consola RPC Phase</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2031,8 +2031,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>R&amp;eutilizar um endereço de recebimento existente (não recomendado)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Proton network.</source>
-        <translation>Mensagem opcional para anexar à solicitação de pagamento, que será mostrada quando a solicitação for aberta. Nota: A mensagem não será enviada com o pagamento através da rede Proton.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Phase network.</source>
+        <translation>Mensagem opcional para anexar à solicitação de pagamento, que será mostrada quando a solicitação for aberta. Nota: A mensagem não será enviada com o pagamento através da rede Phase.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -2043,8 +2043,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Rótulo opcional para associar com o novo endereço de recebimento.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Proton network.</source>
-        <translation>Mensagem opcional para anexar à solicitação de pagamento, que será mostrada quando a solicitação for aberta. &lt;br&gt;Nota: A mensagem não será enviada com o pagamento através da rede Proton.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Phase network.</source>
+        <translation>Mensagem opcional para anexar à solicitação de pagamento, que será mostrada quando a solicitação for aberta. &lt;br&gt;Nota: A mensagem não será enviada com o pagamento através da rede Phase.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -2480,8 +2480,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Pagar somente a taxa mínima de %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Proton address</source>
-        <translation>Aviso: Endereço Proton inválido</translation>
+        <source>Warning: Invalid Phase address</source>
+        <translation>Aviso: Endereço Phase inválido</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2503,8 +2503,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>&amp;Pagar a:</translation>
     </message>
     <message>
-        <source>The Proton address to send the payment to</source>
-        <translation>O endereço Proton para onde enviar o pagamento</translation>
+        <source>The Phase address to send the payment to</source>
+        <translation>O endereço Phase para onde enviar o pagamento</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2543,8 +2543,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Mensagem:</translation>
     </message>
     <message>
-        <source>A message that was attached to the phase: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Proton network.</source>
-        <translation>Mensagem que foi anexada ao phase: URI e que será guardada com a transacção para sua referência. Nota: Esta mensagem não será enviada para a rede Proton.</translation>
+        <source>A message that was attached to the phase: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Phase network.</source>
+        <translation>Mensagem que foi anexada ao phase: URI e que será guardada com a transacção para sua referência. Nota: Esta mensagem não será enviada para a rede Phase.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2593,8 +2593,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Pode assinar mensagens com os seus endereços para provar que são seus. Tenha atenção para não assinar mensagens vagas, já que, ataques de phishing podem levá-lo a assinar a sua própria identidade para os atacantes. Apenas assine declarações detalhadas com as quais concorde.</translation>
     </message>
     <message>
-        <source>The Proton address to sign the message with</source>
-        <translation>Endereço Proton com o qual deseja assinar a mensagem</translation>
+        <source>The Phase address to sign the message with</source>
+        <translation>Endereço Phase com o qual deseja assinar a mensagem</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2625,8 +2625,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Copiar a assinatura actual para a área de transferência</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Proton address</source>
-        <translation>Assinar a mensagem para provar que é o proprietário deste endereço Proton</translation>
+        <source>Sign the message to prove you own this Phase address</source>
+        <translation>Assinar a mensagem para provar que é o proprietário deste endereço Phase</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2649,12 +2649,12 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Introduza o endereço de assinatura, mensagem (assegure-se que copia exactamente as quebras de linha, espaços, tabulações, etc) e assinatura abaixo para verificar a mensagem. Tenha atenção para não ler mais na assinatura do que o que estiver na mensagem assinada, para evitar ser enganado por um atacante que se encontre entre si e quem assinou a mensagem.</translation>
     </message>
     <message>
-        <source>The Proton address the message was signed with</source>
-        <translation>Endereço Proton com o qual a mensagem foi assinada</translation>
+        <source>The Phase address the message was signed with</source>
+        <translation>Endereço Phase com o qual a mensagem foi assinada</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Proton address</source>
-        <translation>Verificar a mensagem de forma a garantir que foi assinada com o endereço Proton especificado</translation>
+        <source>Verify the message to ensure it was signed with the specified Phase address</source>
+        <translation>Verificar a mensagem de forma a garantir que foi assinada com o endereço Phase especificado</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -4185,7 +4185,7 @@ https://www.transifex.com/projects/p/phase/</translation>
     </message>
     <message>
         <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation>Opções RPC SSL: (para instruções de configuração SSL dirija-se à Proton Wiki)</translation>
+        <translation>Opções RPC SSL: (para instruções de configuração SSL dirija-se à Phase Wiki)</translation>
     </message>
     <message>
         <source>RPC server options:</source>

@@ -286,7 +286,7 @@ void BitcoinGUI::createActions()
     tabGroup->addAction(overviewAction);
 
     sendCoinsAction = new QAction(QIcon(":/icons/" + theme + "/send"), tr("&Send"), this);
-    sendCoinsAction->setStatusTip(tr("Send coins to a Proton address"));
+    sendCoinsAction->setStatusTip(tr("Send coins to a Phase address"));
     sendCoinsAction->setToolTip(sendCoinsAction->statusTip());
     sendCoinsAction->setCheckable(true);
 #ifdef Q_OS_MAC
@@ -388,9 +388,9 @@ void BitcoinGUI::createActions()
     unlockWalletAction->setToolTip(tr("Unlock wallet"));
     lockWalletAction = new QAction(tr("&Lock Wallet"), this);
     signMessageAction = new QAction(QIcon(":/icons/" + theme + "/edit"), tr("Sign &message..."), this);
-    signMessageAction->setStatusTip(tr("Sign messages with your Proton addresses to prove you own them"));
+    signMessageAction->setStatusTip(tr("Sign messages with your Phase addresses to prove you own them"));
     verifyMessageAction = new QAction(QIcon(":/icons/" + theme + "/transaction_0"), tr("&Verify message..."), this);
-    verifyMessageAction->setStatusTip(tr("Verify messages to ensure they were signed with specified Proton addresses"));
+    verifyMessageAction->setStatusTip(tr("Verify messages to ensure they were signed with specified Phase addresses"));
 
     openInfoAction = new QAction(QApplication::style()->standardIcon(QStyle::SP_MessageBoxInformation), tr("&Information"), this);
     openInfoAction->setStatusTip(tr("Show diagnostic information"));
@@ -690,10 +690,22 @@ void BitcoinGUI::setWalletActionsEnabled(bool enabled)
 void BitcoinGUI::createTrayIcon(const NetworkStyle *networkStyle)
 {
     trayIcon = new QSystemTrayIcon(this);
-    QString toolTip = tr("Phase Core client") + " " + networkStyle->getTitleAddText();
+    QString balances = QString::fromStdString("");
+    if(pwalletMain) {
+		CAmount balance = pwalletMain->GetBalance();
+		CAmount unconfirmBalance = pwalletMain->GetUnconfirmedBalance();
+		CAmount immatureBalance = pwalletMain->GetImmatureBalance();
+		QString balanceStr = QString::fromStdString(" Balances " + std::to_string(balance) + ":");
+		QString unconfirmBalanceStr = QString::fromStdString(" " + std::to_string(unconfirmBalance) + ":");
+		QString immatureBalanceStr = QString::fromStdString(" " + std::to_string(immatureBalance));
+		balances += balanceStr + unconfirmBalanceStr + immatureBalanceStr;
+    }
+    QString toolTip = tr("Phase Core client") + " - " + networkStyle->getTitleAddText() + balances;
+
     trayIcon->setToolTip(toolTip);
     trayIcon->setIcon(networkStyle->getTrayAndWindowIcon());
     trayIcon->show();
+    //pwalletMain->GetWallet
     notificator = new Notificator(QApplication::applicationName(), trayIcon, this);
 }
 
@@ -889,7 +901,7 @@ void BitcoinGUI::setNumConnections(int count)
     }
     QIcon connectionItem = QIcon(icon).pixmap(STATUSBAR_ICONSIZE,STATUSBAR_ICONSIZE);
     labelConnectionsIcon->setIcon(connectionItem);
-    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to Proton network", "", count));
+    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to Phase network", "", count));
 }
 
 void BitcoinGUI::setNumBlocks(int count, const QDateTime& blockDate, double nVerificationProgress)
@@ -1192,6 +1204,24 @@ bool BitcoinGUI::eventFilter(QObject *object, QEvent *event)
         // Prevent adding text from setStatusTip(), if we currently use the status bar for displaying other stuff
         if (progressBarLabel->isVisible() || progressBar->isVisible())
             return true;
+    }
+
+    if(event->type() == QEvent::HoverEnter) {
+    	if(pwalletMain && trayIcon) {
+			QString balances = QString::fromStdString("");
+			CAmount balance = pwalletMain->GetBalance();
+			CAmount unconfirmBalance = pwalletMain->GetUnconfirmedBalance();
+			CAmount immatureBalance = pwalletMain->GetImmatureBalance();
+			QString balanceStr = QString::fromStdString(" Balances " + std::to_string(balance) + ":");
+			QString unconfirmBalanceStr = QString::fromStdString(" " + std::to_string(unconfirmBalance) + ":");
+			QString immatureBalanceStr = QString::fromStdString(" " + std::to_string(immatureBalance));
+			balances += balanceStr + unconfirmBalanceStr + immatureBalanceStr;
+
+			QString toolTip = tr("Phase Core client") + " - " + balances;
+
+			trayIcon->setToolTip(toolTip);
+			//cout << "balance " << balance << "\n";
+    	}
     }
     return QMainWindow::eventFilter(object, event);
 }

@@ -58,12 +58,12 @@
         <translation>Mottagaradresser</translation>
     </message>
     <message>
-        <source>These are your Proton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>De här är dina Proton-adresser för att skicka betalningar. Kontrollera alltid mängden och mottagaradressen innan du skickar mynt.</translation>
+        <source>These are your Phase addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>De här är dina Phase-adresser för att skicka betalningar. Kontrollera alltid mängden och mottagaradressen innan du skickar mynt.</translation>
     </message>
     <message>
-        <source>These are your Proton addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>De här är dina Proton-adresser för betalningsmottagningar. Det rekommenderas att använda en ny mottagaradress för varje transaktion.</translation>
+        <source>These are your Phase addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>De här är dina Phase-adresser för betalningsmottagningar. Det rekommenderas att använda en ny mottagaradress för varje transaktion.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Plånbok krypterad</translation>
     </message>
     <message>
-        <source>Proton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your phases from being stolen by malware infecting your computer.</source>
-        <translation>Proton kommer nu att färdigställa krypteringsprocessen. Kom ihåg att krypteringen av din plånbok inte kan skydda dig helt och hållet från att dina Proton stjäls av skadeprogram som har infekterat din dator.</translation>
+        <source>Phase will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your phases from being stolen by malware infecting your computer.</source>
+        <translation>Phase kommer nu att färdigställa krypteringsprocessen. Kom ihåg att krypteringen av din plånbok inte kan skydda dig helt och hållet från att dina Phase stjäls av skadeprogram som har infekterat din dator.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -244,8 +244,8 @@
         <translation>&amp;Skicka</translation>
     </message>
     <message>
-        <source>Send coins to a Proton address</source>
-        <translation>Skicka mynt till en Proton-adress</translation>
+        <source>Send coins to a Phase address</source>
+        <translation>Skicka mynt till en Phase-adress</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
@@ -253,7 +253,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and phase: URIs)</source>
-        <translation>Begär betalningar (genererar QR-koder och Proton:-URI:s)</translation>
+        <translation>Begär betalningar (genererar QR-koder och Phase:-URI:s)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -288,8 +288,8 @@
         <translation>&amp;Alternativ...</translation>
     </message>
     <message>
-        <source>Modify configuration options for Proton</source>
-        <translation>Anpassa konfigurationsalternatv för Proton</translation>
+        <source>Modify configuration options for Phase</source>
+        <translation>Anpassa konfigurationsalternatv för Phase</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -340,16 +340,16 @@
         <translation>Signera &amp;meddelande...</translation>
     </message>
     <message>
-        <source>Sign messages with your Proton addresses to prove you own them</source>
-        <translation>Signera meddelanden med dina Proton-adresser för att bevisa att du äger dem</translation>
+        <source>Sign messages with your Phase addresses to prove you own them</source>
+        <translation>Signera meddelanden med dina Phase-adresser för att bevisa att du äger dem</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Bekräfta meddelande...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Proton addresses</source>
-        <translation>Bekräfta meddelanden för att garantera att de signerades med de angivna Proton-adresserna</translation>
+        <source>Verify messages to ensure they were signed with specified Phase addresses</source>
+        <translation>Bekräfta meddelanden för att garantera att de signerades med de angivna Phase-adresserna</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -405,15 +405,15 @@
     </message>
     <message>
         <source>Open a phase: URI or payment request</source>
-        <translation>Öppna en Proton-URI eller betalningsbegäran</translation>
+        <translation>Öppna en Phase-URI eller betalningsbegäran</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Kommandoradalternativ</translation>
     </message>
     <message>
-        <source>Show the Phase Core help message to get a list with possible Proton command-line options</source>
-        <translation>Visa Phase Core-hjälpmeddelandet för att få en lista med möjliga Proton-kommandoradalternativ</translation>
+        <source>Show the Phase Core help message to get a list with possible Phase command-line options</source>
+        <translation>Visa Phase Core-hjälpmeddelandet för att få en lista med möjliga Phase-kommandoradalternativ</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -790,16 +790,16 @@ Adress: %4
         <translation>Darksend-konfiguration</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend ställdes framgångsrikt om till grundläggande (%1 och 2 omgångar). Du kan ändra detta när som helst genom att öppna Proton:s konfigurationsskärm.</translation>
+        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Phase's configuration screen.</source>
+        <translation>Darksend ställdes framgångsrikt om till grundläggande (%1 och 2 omgångar). Du kan ändra detta när som helst genom att öppna Phase:s konfigurationsskärm.</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend ställdes framgångsrikt in på hög (%1 och 8 omgångar). Du kan ändra detta när som helst genom att öppna Proton:s konfigurationsskärm.</translation>
+        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Phase's configuration screen.</source>
+        <translation>Darksend ställdes framgångsrikt in på hög (%1 och 8 omgångar). Du kan ändra detta när som helst genom att öppna Phase:s konfigurationsskärm.</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend ställdes framgångsrikt in på maximal (%1 och 16 omgångar). Du kan ändra detta när som helst genom att öppna Proton:s konfigurationsskärm</translation>
+        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Phase's configuration screen.</source>
+        <translation>Darksend ställdes framgångsrikt in på maximal (%1 och 16 omgångar). Du kan ändra detta när som helst genom att öppna Phase:s konfigurationsskärm</translation>
     </message>
 </context>
 <context>
@@ -841,8 +841,8 @@ Adress: %4
         <translation>Redigera avsändaradress</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Proton address.</source>
-        <translation>Den angivna adressen "%1" är inte en giltig Proton-adress.</translation>
+        <source>The entered address "%1" is not a valid Phase address.</source>
+        <translation>Den angivna adressen "%1" är inte en giltig Phase-adress.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -939,8 +939,8 @@ Adress: %4
         <translation>Då detta är första gången programmet startas kan du välja var Phase Core ska lagra sin data.</translation>
     </message>
     <message>
-        <source>Phase Core will download and store a copy of the Proton block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Phase Core kommer att laddas ned och lagra en kopia av Proton:s blockkedja. Minst %1 GB data kommer att lagras i denna katalog och den kommer att växa med tiden. Plånboken kommer också att lagras i denna katalog.</translation>
+        <source>Phase Core will download and store a copy of the Phase block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Phase Core kommer att laddas ned och lagra en kopia av Phase:s blockkedja. Minst %1 GB data kommer att lagras i denna katalog och den kommer att växa med tiden. Plånboken kommer också att lagras i denna katalog.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -989,12 +989,12 @@ Adress: %4
         <translation>&amp;Huvud</translation>
     </message>
     <message>
-        <source>Automatically start Proton after logging in to the system.</source>
-        <translation>Starta Proton automatiskt efter systeminloggning.</translation>
+        <source>Automatically start Phase after logging in to the system.</source>
+        <translation>Starta Phase automatiskt efter systeminloggning.</translation>
     </message>
     <message>
-        <source>&amp;Start Proton on system login</source>
-        <translation>&amp;Starta Proton vid systeminloggning</translation>
+        <source>&amp;Start Phase on system login</source>
+        <translation>&amp;Starta Phase vid systeminloggning</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1021,8 +1021,8 @@ Adress: %4
         <translation>Denna mängd fungerar som en tröskel att stänga av Darksend då det har uppnåtts.</translation>
     </message>
     <message>
-        <source>Amount of Proton to keep anonymized</source>
-        <translation>Mängd Proton att bibehålla anonymiserade</translation>
+        <source>Amount of Phase to keep anonymized</source>
+        <translation>Mängd Phase att bibehålla anonymiserade</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -1049,8 +1049,8 @@ Adress: %4
         <translation>&amp;Nätverk</translation>
     </message>
     <message>
-        <source>Automatically open the Proton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna Proton:s klientport automatiskt på routern. Detta fungerar bara om din router stöder UPnP och är aktiverad.</translation>
+        <source>Automatically open the Phase client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna Phase:s klientport automatiskt på routern. Detta fungerar bara om din router stöder UPnP och är aktiverad.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1101,8 +1101,8 @@ Adress: %4
         <translation>Användargränssnitt&amp;språk: </translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Proton.</source>
-        <translation>Användargränssnittspråket kan ställas in här. Denna inställning träder i kraft efter att Proton startats om.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Phase.</source>
+        <translation>Användargränssnittspråket kan ställas in här. Denna inställning träder i kraft efter att Phase startats om.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1182,8 +1182,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Formulär</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Proton network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara utdaterad. Din plånbok synkroniseras automatiskt med Proton-nätverket efter att en anslutning har etablerats men denna process har ännu inte slutförts.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Phase network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara utdaterad. Din plånbok synkroniseras automatiskt med Phase-nätverket efter att en anslutning har etablerats men denna process har ännu inte slutförts.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1435,8 +1435,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Antal anslutningar</translation>
     </message>
     <message>
-        <source>Open the Proton debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Protons avsökningsloggfil från den nuvarande datakatalogen. Detta kan ta ett par sekunder för stora loggfiler.</translation>
+        <source>Open the Phase debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna Phases avsökningsloggfil från den nuvarande datakatalogen. Detta kan ta ett par sekunder för stora loggfiler.</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -1507,8 +1507,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Ut:</translation>
     </message>
     <message>
-        <source>Welcome to the Proton RPC console.</source>
-        <translation>Välkommen till Protons RPC-konsol.</translation>
+        <source>Welcome to the Phase RPC console.</source>
+        <translation>Välkommen till Phases RPC-konsol.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1542,8 +1542,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Åt&amp;eranvänd en befintlig mottagaradress (rekommenderas inte)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Proton network.</source>
-        <translation>Ett valfritt meddelande att bifoga betalningsbegärandet vilket kommer att visas när begärandet öppnas. Observera: Meddelandet kommer inte att skickas med betalningen över Proton-nätverket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Phase network.</source>
+        <translation>Ett valfritt meddelande att bifoga betalningsbegärandet vilket kommer att visas när begärandet öppnas. Observera: Meddelandet kommer inte att skickas med betalningen över Phase-nätverket.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -1899,8 +1899,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Fel: Plånboken låstes upp enbart för att anonymisera mynt.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Proton address</source>
-        <translation>Varning: Ogiltig Proton-adress</translation>
+        <source>Warning: Invalid Phase address</source>
+        <translation>Varning: Ogiltig Phase-adress</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -1958,8 +1958,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Meddelande:</translation>
     </message>
     <message>
-        <source>A message that was attached to the phase: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Proton network.</source>
-        <translation>Ett meddelande som bifogades till Proton: URI vilket kommer att lagras med transaktionen så att du vet. Observera: Meddelandet kommer inte att skickas över Proton-nätverket.</translation>
+        <source>A message that was attached to the phase: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Phase network.</source>
+        <translation>Ett meddelande som bifogades till Phase: URI vilket kommer att lagras med transaktionen så att du vet. Observera: Meddelandet kommer inte att skickas över Phase-nätverket.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -2036,8 +2036,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Kopiera den nuvarande valda signaturen till systemurklippet</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Proton address</source>
-        <translation>Signera meddelandet för att bevisa att du äger denna Proton-adress</translation>
+        <source>Sign the message to prove you own this Phase address</source>
+        <translation>Signera meddelandet för att bevisa att du äger denna Phase-adress</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2060,8 +2060,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Skriv in signeringsadressen, meddelandet, (försäkra dig om att du kopierar linjeavbrott, mellanslag, flikar med mera) och signera nedtill för att verifiera meddelandet. Var försiktig med att inte läsa in mer i signaturen än vad som finns i det signerade meddelandet för att undvika att bli lurad av en mellanhandattack.</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Proton address</source>
-        <translation>Bekräfta meddelandet för att försäkra dig om att den signerades med den angivna Proton-adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Phase address</source>
+        <translation>Bekräfta meddelandet för att försäkra dig om att den signerades med den angivna Phase-adressen</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>

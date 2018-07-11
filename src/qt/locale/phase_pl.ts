@@ -62,12 +62,12 @@
         <translation>Adres odbiorczy</translation>
     </message>
     <message>
-        <source>These are your Proton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To są twoje adresy Proton na które wysyłasz płatności. Zawsze upewnij się, że kwota i adres są prawidłowe zanim wyślesz monety.</translation>
+        <source>These are your Phase addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To są twoje adresy Phase na które wysyłasz płatności. Zawsze upewnij się, że kwota i adres są prawidłowe zanim wyślesz monety.</translation>
     </message>
     <message>
-        <source>These are your Proton addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To są twoje adresy do otrzymywania Protonów. Zaleca się aby stworzyć nowy adres dla każdej transakcji</translation>
+        <source>These are your Phase addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To są twoje adresy do otrzymywania Phaseów. Zaleca się aby stworzyć nowy adres dla każdej transakcji</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -188,8 +188,8 @@
         <translation>Portfel zaszyfrowany</translation>
     </message>
     <message>
-        <source>Proton will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your phases from being stolen by malware infecting your computer.</source>
-        <translation>Proton zostanie teraz zamknięty aby zakończyć proces szyfrowania. Pamiętaj, że zaszyfrowanie portfela nie gwarantuje pełnej ochrony przed kradzieżą twoich monet przez złośliwe oprogramowanie.</translation>
+        <source>Phase will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your phases from being stolen by malware infecting your computer.</source>
+        <translation>Phase zostanie teraz zamknięty aby zakończyć proces szyfrowania. Pamiętaj, że zaszyfrowanie portfela nie gwarantuje pełnej ochrony przed kradzieżą twoich monet przez złośliwe oprogramowanie.</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -255,8 +255,8 @@
         <translation>Wyślij</translation>
     </message>
     <message>
-        <source>Send coins to a Proton address</source>
-        <translation>Wyślij monety na adres Proton</translation>
+        <source>Send coins to a Phase address</source>
+        <translation>Wyślij monety na adres Phase</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
@@ -303,8 +303,8 @@
         <translation>&amp;Opcje...</translation>
     </message>
     <message>
-        <source>Modify configuration options for Proton</source>
-        <translation>Zmień opcje konfiguracji dla Proton</translation>
+        <source>Modify configuration options for Phase</source>
+        <translation>Zmień opcje konfiguracji dla Phase</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -355,16 +355,16 @@
         <translation>Podpisz wiado&amp;mość...</translation>
     </message>
     <message>
-        <source>Sign messages with your Proton addresses to prove you own them</source>
-        <translation>Podpisz wiadomości swoim adresem Proton aby udowodnić, że jesteś ich właścicielem. </translation>
+        <source>Sign messages with your Phase addresses to prove you own them</source>
+        <translation>Podpisz wiadomości swoim adresem Phase aby udowodnić, że jesteś ich właścicielem. </translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>&amp;Zweryfikuj wiadomość...</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Proton addresses</source>
-        <translation>Zweryfikuj wiadomości aby upewnić się, że zostały one podpisane wybranym adresem Proton</translation>
+        <source>Verify messages to ensure they were signed with specified Phase addresses</source>
+        <translation>Zweryfikuj wiadomości aby upewnić się, że zostały one podpisane wybranym adresem Phase</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -463,7 +463,7 @@
         <translation>Synchronizuję dodatkowe dane: %p%</translation>
     </message>
     <message>
-        <source>Show the Phase Core help message to get a list with possible Proton command-line options</source>
+        <source>Show the Phase Core help message to get a list with possible Phase command-line options</source>
         <translation>Pokaż wiadomość pomocy Phase Core aby otrzymać listę z dostępnymi opcjami linii komend.</translation>
     </message>
     <message>
@@ -487,8 +487,8 @@
         <translation>Pasek zakładek</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Proton network</source>
-        <translation><numerusform>%n aktywne połączenie do sieci Proton</numerusform><numerusform>%n aktywne połączenia do sieci Proton</numerusform><numerusform>%n aktywne połączenia do sieci Proton</numerusform></translation>
+        <source>%n active connection(s) to Phase network</source>
+        <translation><numerusform>%n aktywne połączenie do sieci Phase</numerusform><numerusform>%n aktywne połączenia do sieci Phase</numerusform><numerusform>%n aktywne połączenia do sieci Phase</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -896,16 +896,16 @@ Adres: %4
         <translation>Konfiguracja Darksend</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend został pomyślnie ustawiony na poziom podstawowy (%1 oraz 2 rundy). Możesz to zmienić kiedy chcesz, otwierając ekran z konfiguracją Proton.</translation>
+        <source>Darksend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Phase's configuration screen.</source>
+        <translation>Darksend został pomyślnie ustawiony na poziom podstawowy (%1 oraz 2 rundy). Możesz to zmienić kiedy chcesz, otwierając ekran z konfiguracją Phase.</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend został pomyślnie ustawiony na poziom wysoki (%1 oraz 8 rund). Możesz to zmienić kiedy chcesz, otwierając ekran z konfiguracją Proton.</translation>
+        <source>Darksend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Phase's configuration screen.</source>
+        <translation>Darksend został pomyślnie ustawiony na poziom wysoki (%1 oraz 8 rund). Możesz to zmienić kiedy chcesz, otwierając ekran z konfiguracją Phase.</translation>
     </message>
     <message>
-        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend został pomyślnie ustawiony na poziom maksymalny (%1 oraz 16 rund). Możesz to zmienić kiedy chcesz, otwierając ekran z konfiguracją Proton.</translation>
+        <source>Darksend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Phase's configuration screen.</source>
+        <translation>Darksend został pomyślnie ustawiony na poziom maksymalny (%1 oraz 16 rund). Możesz to zmienić kiedy chcesz, otwierając ekran z konfiguracją Phase.</translation>
     </message>
 </context>
 <context>
@@ -947,8 +947,8 @@ Adres: %4
         <translation>Zmień adres wysyłania</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Proton address.</source>
-        <translation>Wprowadzony adres "%1" nie jest właściwym adresem Proton.</translation>
+        <source>The entered address "%1" is not a valid Phase address.</source>
+        <translation>Wprowadzony adres "%1" nie jest właściwym adresem Phase.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1056,7 +1056,7 @@ Adres: %4
         <translation>Ponieważ uruchomiłeś ten program po raz pierwszy, możesz wybrać gdzie Phase Core będzie przechowywał dane.</translation>
     </message>
     <message>
-        <source>Phase Core will download and store a copy of the Proton block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Phase Core will download and store a copy of the Phase block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Phase Core ściągnie i przechowa  kopię blockchain na twoim dysku. Co najmniej %1GB danych zostanie zapisanych w tym katalogu, a wraz z upływem czasu blockchain będzie stopniowo wymagał coraz więcej miejsca. Twój portfel również zostanie zapisany w tym katalogu.</translation>
     </message>
     <message>
@@ -1122,12 +1122,12 @@ Adres: %4
         <translation>Główne</translation>
     </message>
     <message>
-        <source>Automatically start Proton after logging in to the system.</source>
-        <translation>Automatycznie uruchom Proton po zalogowaniu się do systemu.</translation>
+        <source>Automatically start Phase after logging in to the system.</source>
+        <translation>Automatycznie uruchom Phase po zalogowaniu się do systemu.</translation>
     </message>
     <message>
-        <source>&amp;Start Proton on system login</source>
-        <translation>&amp;Uruchom Proton po zalogowaniu się do systemu</translation>
+        <source>&amp;Start Phase on system login</source>
+        <translation>&amp;Uruchom Phase po zalogowaniu się do systemu</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1154,8 +1154,8 @@ Adres: %4
         <translation>Ta kwota działa jako próg po którego przekroczeniu Darksend zostaje wyłączony.</translation>
     </message>
     <message>
-        <source>Amount of Proton to keep anonymized</source>
-        <translation>Ilość Protonów, które mają pozostać anonimowe.</translation>
+        <source>Amount of Phase to keep anonymized</source>
+        <translation>Ilość Phaseów, które mają pozostać anonimowe.</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -1174,8 +1174,8 @@ Adres: %4
         <translation>Zezwól na przychdzące połączenia</translation>
     </message>
     <message>
-        <source>Connect to the Proton network through a SOCKS5 proxy.</source>
-        <translation>Połącz się z siecią Proton przez proxy SOCKS5.</translation>
+        <source>Connect to the Phase network through a SOCKS5 proxy.</source>
+        <translation>Połącz się z siecią Phase przez proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1206,7 +1206,7 @@ Adres: %4
         <translation>&amp;Sieć</translation>
     </message>
     <message>
-        <source>Automatically open the Proton client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Phase client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Automatycznie uruchamiaj port klienta Darkcoina na ruterze. To działa tylko jeśli twój ruter wspiera  i ma włączone UPnP.</translation>
     </message>
     <message>
@@ -1258,8 +1258,8 @@ Adres: %4
         <translation>Język &amp;Użytkownika:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Proton.</source>
-        <translation>Tutaj można ustawić język interfejsu użytkownika. To ustawienie zostanie zapisane po ponownym uruchomieniu Proton.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Phase.</source>
+        <translation>Tutaj można ustawić język interfejsu użytkownika. To ustawienie zostanie zapisane po ponownym uruchomieniu Phase.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1347,8 +1347,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Formularz</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Proton network after a connection is established, but this process has not completed yet.</source>
-        <translation>Wyświetlona informacja może być przedawniona. Twój portfel automatycznie zsynchronizuje sie z siecią Proton jak tylko zostanie ustanowione połączenie, jednakże proces ten jeszcze się nie zakończył.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Phase network after a connection is established, but this process has not completed yet.</source>
+        <translation>Wyświetlona informacja może być przedawniona. Twój portfel automatycznie zsynchronizuje sie z siecią Phase jak tylko zostanie ustanowione połączenie, jednakże proces ten jeszcze się nie zakończył.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1588,8 +1588,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Nieprawidłowy adres płatności %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Proton address or malformed URI parameters.</source>
-        <translation>URI nie może zostać przeanalizowany! Mogło to być spowodowane przez niewłaściwy adres Proton lub niewłaściwe parametry URI</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Phase address or malformed URI parameters.</source>
+        <translation>URI nie może zostać przeanalizowany! Mogło to być spowodowane przez niewłaściwy adres Phase lub niewłaściwe parametry URI</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -1674,8 +1674,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Ilość</translation>
     </message>
     <message>
-        <source>Enter a Proton address (e.g. %1)</source>
-        <translation>Wpisz adres Proton (np. %1)</translation>
+        <source>Enter a Phase address (e.g. %1)</source>
+        <translation>Wpisz adres Phase (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1764,7 +1764,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Liczba połączeń</translation>
     </message>
     <message>
-        <source>Open the Proton debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Phase debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Otwiera plik z zapisami debugowania Darkcoina z obecnego katalogu. Może to potrfać kilka sekund w zależności od rozmiaru pliku.</translation>
     </message>
     <message>
@@ -1972,7 +1972,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Wyjście:</translation>
     </message>
     <message>
-        <source>Welcome to the Proton RPC console.</source>
+        <source>Welcome to the Phase RPC console.</source>
         <translation>Witaj w konsoli RPC Darkcoina</translation>
     </message>
     <message>
@@ -2035,8 +2035,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Użyj istniejący adres odbiorczy (nie zalecane)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Proton network.</source>
-        <translation>Opcjonalna wiadomość do żądania płatności. Wiadomość wyświetli się po otwarciu żądania. Pamiętaj: Wiadomość nie zostanie wysłana razem z płatnością poprzez sieć Proton.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Phase network.</source>
+        <translation>Opcjonalna wiadomość do żądania płatności. Wiadomość wyświetli się po otwarciu żądania. Pamiętaj: Wiadomość nie zostanie wysłana razem z płatnością poprzez sieć Phase.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -2047,8 +2047,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Opcjonalna etykieta do skojarzenia z nowym adresem odbiorczym.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Proton network.</source>
-        <translation>Opcjonalna wiadomość do żądania płatności. Wiadomość wyświetli się po otwarciu żądania.&lt;br&gt; Pamiętaj: Wiadomość nie zostanie wysłana razem z płatnością poprzez sieć Proton.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Phase network.</source>
+        <translation>Opcjonalna wiadomość do żądania płatności. Wiadomość wyświetli się po otwarciu żądania.&lt;br&gt; Pamiętaj: Wiadomość nie zostanie wysłana razem z płatnością poprzez sieć Phase.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -2496,8 +2496,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Uiść minimalną opłatę %1</translation>
     </message>
     <message>
-        <source>Warning: Invalid Proton address</source>
-        <translation>Ostrzeżenie: adres Proton jest nieprawidlowy </translation>
+        <source>Warning: Invalid Phase address</source>
+        <translation>Ostrzeżenie: adres Phase jest nieprawidlowy </translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2519,8 +2519,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Zapłać &amp;dla:</translation>
     </message>
     <message>
-        <source>The Proton address to send the payment to</source>
-        <translation>Adres Proton na który wysłać fundusze</translation>
+        <source>The Phase address to send the payment to</source>
+        <translation>Adres Phase na który wysłać fundusze</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2559,7 +2559,7 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Wiadomość:</translation>
     </message>
     <message>
-        <source>A message that was attached to the phase: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Proton network.</source>
+        <source>A message that was attached to the phase: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Phase network.</source>
         <translation>Wiadomość, która została dołączona do phase: Link, który zostanie zapisany wraz z transakcją do wglądu w przyszłości. Zauważ. że sama wiadomość nie zostanie wysłana przez sieć Darkcoina.</translation>
     </message>
     <message>
@@ -2609,8 +2609,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Możesz podpisywać wiadomości swoimi adresami aby udowodnić, że jesteś ich właścicielem. Uważaj, aby nie podpisywać niczego co wzbudza Twoje podejrzenia, ponieważ ktoś może stosować phishing próbując nakłonić Cię do ich podpisania. Akceptuj i podpisuj tylko w pełni zrozumiałe komunikaty i wiadomości.</translation>
     </message>
     <message>
-        <source>The Proton address to sign the message with</source>
-        <translation>Adres Proton do podpisu wiadomości</translation>
+        <source>The Phase address to sign the message with</source>
+        <translation>Adres Phase do podpisu wiadomości</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2641,8 +2641,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Kopiuje aktualny podpis do schowka systemowego</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Proton address</source>
-        <translation>Podpisz wiadomość aby udowodnić, że jesteś właścicielem adresu Proton.</translation>
+        <source>Sign the message to prove you own this Phase address</source>
+        <translation>Podpisz wiadomość aby udowodnić, że jesteś właścicielem adresu Phase.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2665,12 +2665,12 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Wpisz adres podpisujący, podaj wiadomość (upewnij się, że dokładnie skopiujesz wszystkie zakończenia linii, spacje, tabulacje itp.) oraz podpis poniżej by sprawdzić wiadomość. Uważaj by nie dodać więcej do podpisu niż do samej podpisywanej wiadomości by uniknąć ataku man-in-the-middle (człowiek pośrodku)</translation>
     </message>
     <message>
-        <source>The Proton address the message was signed with</source>
-        <translation>Adres Proton którym wiadomość została podpisana</translation>
+        <source>The Phase address the message was signed with</source>
+        <translation>Adres Phase którym wiadomość została podpisana</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Proton address</source>
-        <translation>Zweryfikuj wiadomość aby upewnić się, że została zapisana przez konkretny adres Proton</translation>
+        <source>Verify the message to ensure it was signed with the specified Phase address</source>
+        <translation>Zweryfikuj wiadomość aby upewnić się, że została zapisana przez konkretny adres Phase</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3327,7 +3327,7 @@ https://www.transifex.com/projects/p/phase/</translation>
     </message>
     <message>
         <source>Cannot obtain a lock on data directory %s. Phase Core is probably already running.</source>
-        <translation>Nie można zablokować katalogu danych %s. Prawdopodobnie Proton jest już uruchomiony. </translation>
+        <translation>Nie można zablokować katalogu danych %s. Prawdopodobnie Phase jest już uruchomiony. </translation>
     </message>
     <message>
         <source>Darksend uses exact denominated amounts to send funds, you might simply need to anonymize some more coins.</source>
@@ -3383,7 +3383,7 @@ https://www.transifex.com/projects/p/phase/</translation>
     </message>
     <message>
         <source>Unable to bind to %s on this computer. Phase Core is probably already running.</source>
-        <translation>Niezdolny do związania z %s na tym komputerze. Prawdopodobnie Proton jest już uruchomiony. </translation>
+        <translation>Niezdolny do związania z %s na tym komputerze. Prawdopodobnie Phase jest już uruchomiony. </translation>
     </message>
     <message>
         <source>Unable to locate enough Darksend denominated funds for this transaction.</source>
@@ -3614,8 +3614,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Usuń wszystkie transakcje portfela i odzyskaj tylko te części blockchainu - zeskanuj powonie na starcie.</translation>
     </message>
     <message>
-        <source>Disable all Proton specific functionality (Masternodes, Darksend, InstantX, Budgeting) (0-1, default: %u)</source>
-        <translation>Wyłącz wszystkie dodatkowe funckje Proton (Masternody, Darksend, InstanX, Budżetowanie) (0-1, domyślnie: %u)</translation>
+        <source>Disable all Phase specific functionality (Masternodes, Darksend, InstantX, Budgeting) (0-1, default: %u)</source>
+        <translation>Wyłącz wszystkie dodatkowe funckje Phase (Masternody, Darksend, InstanX, Budżetowanie) (0-1, domyślnie: %u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -3719,7 +3719,7 @@ rpcpassword=%s
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Proton Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Phase Alert" admin@foo.com
 </source>
         <translation>Aby używać phased, lub opcje -server w kliencie phase-qt, musisz ustawić hasło rpc w pliku konfiguracji:
 %s
@@ -3729,7 +3729,7 @@ rpcpassword=%s
 (Nie musisz pamiętać tego hasła)
 Twoje hasło NIE MOŻE być takie samo jak twój login.
 Jeśli plik ten nie istnieje, stwórz go z uprawnieniami do odczytu tylko przez właściciela.
-Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać ci znać w razie wystąpienia jekiegoś problemu, na przykład: alertnotify=echo %%s I -s "Proton Alert" admin@foo.com
+Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać ci znać w razie wystąpienia jekiegoś problemu, na przykład: alertnotify=echo %%s I -s "Phase Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -3746,7 +3746,7 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
     </message>
     <message>
         <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Phase Core will not work properly.</source>
-        <translation>Uwaga: Proszę sprawdzić czy data i czas na twoim komputerze są poprawne! Jeśli twój zegar nie pokazuje prawidłowej godziny to Proton może nie działać poprawidłowo.</translation>
+        <translation>Uwaga: Proszę sprawdzić czy data i czas na twoim komputerze są poprawne! Jeśli twój zegar nie pokazuje prawidłowej godziny to Phase może nie działać poprawidłowo.</translation>
     </message>
     <message>
         <source>Whitelist peers connecting from the given netmask or IP address. Can be specified multiple times.</source>
@@ -3800,7 +3800,7 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
     </message>
     <message>
         <source>Copyright (C) 2014-%i The Phase Core Developers</source>
-        <translation>Prawa autorskie (C) 2014-%i deweloperzy Proton</translation>
+        <translation>Prawa autorskie (C) 2014-%i deweloperzy Phase</translation>
     </message>
     <message>
         <source>Could not parse -rpcbind value %s as network address</source>
@@ -3832,7 +3832,7 @@ Zaleca się również aby ustawić alarm powiadomień tzw. alertnotify, aby dać
     </message>
     <message>
         <source>Error loading wallet.dat: Wallet requires newer version of Phase Core</source>
-        <translation>Błą wczytywania wallet.dat: Portfel wymaga nowszej wersji Proton</translation>
+        <translation>Błą wczytywania wallet.dat: Portfel wymaga nowszej wersji Phase</translation>
     </message>
     <message>
         <source>Error: A fatal internal error occured, see debug.log for details</source>

@@ -18,7 +18,7 @@ uint256 CBlockHeader::GetHash() const
         unsigned int profile = 0x0;
 		if(nTime <= 1522584000){ // 2018/04/01 @ 12:00 (UTC)
         	neoscrypt((unsigned char *) &nVersion, (unsigned char *) &thash, profile);
-        } else if(nTime <= 1531612800) {
+        } else if(nTime <= 1533081600) {
         	//std::cout << "x16r";
         	thash = HashX16R(BEGIN(nVersion), END(nNonce), hashPrevBlock);
         }

@@ -1604,7 +1604,7 @@ CC = /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../nativ
 CCACHE = /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../native/bin/ccache
 CCDEPMODE = depmode=gcc3
 CFLAGS = -pipe -O2 
-CLIENT_VERSION_BUILD = 1
+CLIENT_VERSION_BUILD = 2
 CLIENT_VERSION_IS_RELEASE = true
 CLIENT_VERSION_MAJOR = 2
 CLIENT_VERSION_MINOR = 1

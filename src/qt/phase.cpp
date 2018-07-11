@@ -198,7 +198,7 @@ private:
     void handleRunawayException(const std::exception *e);
 };
 
-/** Main Proton application object */
+/** Main Phase application object */
 class BitcoinApplication: public QApplication
 {
     Q_OBJECT
