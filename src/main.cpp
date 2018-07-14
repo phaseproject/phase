@@ -1772,7 +1772,7 @@ CAmount GetMasternodePayment(int nHeight, CAmount blockValue)
         return blockValue * 0.6;
     }
     if(nHeight >= founderPayment.getFounderStartHeight()) {
-    	blockValue -= blockValue/1.1;
+    	blockValue = blockValue/1.1;
     }
 
     return blockValue * 0.85;
