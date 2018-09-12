@@ -705,7 +705,7 @@ bool CMasternodePaymentVote::IsValid(CNode* pnode, int nValidationHeight, std::s
         }
         // Still invalid however
         //return false;
-        return true; // valid for now
+        return false; // valid for now
     }
 
     return true;
