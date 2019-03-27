@@ -18,20 +18,20 @@ support/libbitcoin_util_a-cleanse.o: support/cleanse.cpp \
  /usr/share/mingw-w64/include/limits.h \
  /usr/share/mingw-w64/include/sec_api/stdlib_s.h \
  /usr/share/mingw-w64/include/malloc.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/crypto.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/crypto.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h \
  /usr/share/mingw-w64/include/stdio.h \
  /usr/share/mingw-w64/include/_mingw_print_push.h \
  /usr/share/mingw-w64/include/_mingw_off_t.h \
  /usr/x86_64-w64-mingw32/include/swprintf.inl \
  /usr/share/mingw-w64/include/sec_api/stdio_s.h \
  /usr/share/mingw-w64/include/_mingw_print_pop.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/stack.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/safestack.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslv.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/ossl_typ.h \
- /home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/symhacks.h
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/stack.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/safestack.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/opensslv.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/ossl_typ.h \
+ /home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/symhacks.h
 
 support/cleanse.h:
 
@@ -71,11 +71,11 @@ support/cleanse.h:
 
 /usr/share/mingw-w64/include/malloc.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/crypto.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/crypto.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/e_os2.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/opensslconf.h:
 
 /usr/share/mingw-w64/include/stdio.h:
 
@@ -89,12 +89,12 @@ support/cleanse.h:
 
 /usr/share/mingw-w64/include/_mingw_print_pop.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/stack.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/stack.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/safestack.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/safestack.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/opensslv.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/opensslv.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/ossl_typ.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/ossl_typ.h:
 
-/home/tri/protoncoin_backup/protoncoin/depends/x86_64-w64-mingw32/share/../include/openssl/symhacks.h:
+/home/tri/protoncoin_backup/phase/depends/x86_64-w64-mingw32/share/../include/openssl/symhacks.h:

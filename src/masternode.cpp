@@ -162,8 +162,16 @@ arith_uint256 CMasternode::CalculateScore(const uint256& blockHash)
     CCoins coins;
    	pcoinsTip->GetCoins(vin.prevout.hash, coins);
    	int height = chainActive.Height();
-   	CAmount collateral = coins.vout[vin.prevout.n].nValue;
-   	Level mnLevel = getMasternodeLevel(collateral, height);
+   	Level mnLevel;
+	if(vin.prevout.n >= coins.vout.size()) {
+		height = NULL_LEVEL;
+	} else {
+		CAmount collateral = coins.vout[vin.prevout.n].nValue;
+		//LogPrintf("CalculateScore(): getting masternode level\n");
+		mnLevel = getMasternodeLevel(collateral, height);
+	}
+  // 	CAmount collateral = coins.vout[vin.prevout.n].nValue;
+  // 	Level mnLevel = getMasternodeLevel(collateral, height);
    	switch(mnLevel) {
    	case LEVEL1:
    	case LEVEL2:
@@ -229,11 +237,13 @@ void CMasternode::Check(bool fForce)
 
     int nActiveStatePrev = nActiveState;
     bool fOurMasternode = fMasterNode && activeMasternode.pubKeyMasternode == pubKeyMasternode;
-
+    int protonChangeBlock = LEVEL_COLLATERAL_START_HEIGHT + 1000;
+	int height = chainActive.Height();
+	int qualifiedVerision = height > protonChangeBlock ? PROTOCOL_VERSION : OLD_PEER_PROTO_VERSION;
                    // masternode doesn't meet payment protocol requirements ...
     bool fRequireUpdate = nProtocolVersion < mnpayments.GetMinMasternodePaymentsProto() ||
                    // or it's our own node and we just updated it to the new protocol but we are still waiting for activation ...
-                   (fOurMasternode && nProtocolVersion < PROTOCOL_VERSION);
+                   (fOurMasternode && nProtocolVersion < qualifiedVerision);
 
     if(fRequireUpdate) {
         nActiveState = MASTERNODE_UPDATE_REQUIRED;

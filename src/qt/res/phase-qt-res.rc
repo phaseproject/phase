@@ -18,8 +18,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Proton"
-            VALUE "FileDescription",    "Phase Core (GUI node for Proton)"
+            VALUE "CompanyName",        "Phase"
+            VALUE "FileDescription",    "Phase Core (GUI node for Phase)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "phase-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR

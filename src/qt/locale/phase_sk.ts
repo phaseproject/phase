@@ -62,12 +62,12 @@
         <translation>Adresa prijatia</translation>
     </message>
     <message>
-        <source>These are your Proton addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto sú Vaše Proton adresy pre posielanie platieb. Pred poslaním mincí vždy overte sumu a doručovaciu adresu.</translation>
+        <source>These are your Phase addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto sú Vaše Phase adresy pre posielanie platieb. Pred poslaním mincí vždy overte sumu a doručovaciu adresu.</translation>
     </message>
     <message>
-        <source>These are your Proton addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto sú Vaše Proton adresy pre posielanie platieb. Pre každú transakciu sa doporučuje použiť novú doručovaciu adresu.</translation>
+        <source>These are your Phase addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto sú Vaše Phase adresy pre posielanie platieb. Pre každú transakciu sa doporučuje použiť novú doručovaciu adresu.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -258,8 +258,8 @@
         <translation>&amp;Odoslať</translation>
     </message>
     <message>
-        <source>Send coins to a Proton address</source>
-        <translation>Poslať mince na Proton adresu</translation>
+        <source>Send coins to a Phase address</source>
+        <translation>Poslať mince na Phase adresu</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
@@ -267,7 +267,7 @@
     </message>
     <message>
         <source>Request payments (generates QR codes and phase: URIs)</source>
-        <translation>Vyžiadať platby (vygeneruje QR kódy a Proton: URI)</translation>
+        <translation>Vyžiadať platby (vygeneruje QR kódy a Phase: URI)</translation>
     </message>
     <message>
         <source>&amp;Transactions</source>
@@ -362,16 +362,16 @@
         <translation>Podpísať &amp;správu...</translation>
     </message>
     <message>
-        <source>Sign messages with your Proton addresses to prove you own them</source>
-        <translation>Podpísať správy s Vašimi Proton adresami ako dôkaz že ich vlastníte</translation>
+        <source>Sign messages with your Phase addresses to prove you own them</source>
+        <translation>Podpísať správy s Vašimi Phase adresami ako dôkaz že ich vlastníte</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
         <translation>Overiť správu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Proton addresses</source>
-        <translation>Overiť správy pre uistenie, že boli podpísané zadanými Proton adresami</translation>
+        <source>Verify messages to ensure they were signed with specified Phase addresses</source>
+        <translation>Overiť správy pre uistenie, že boli podpísané zadanými Phase adresami</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -482,8 +482,8 @@
         <translation>Lišta záložiek</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Proton network</source>
-        <translation><numerusform>%n aktívne spojenie so sieťou Proton</numerusform><numerusform>%n aktívne spojenia so sieťou Proton</numerusform><numerusform>%n aktívnych spojení so sieťou Proton</numerusform></translation>
+        <source>%n active connection(s) to Phase network</source>
+        <translation><numerusform>%n aktívne spojenie so sieťou Phase</numerusform><numerusform>%n aktívne spojenia so sieťou Phase</numerusform><numerusform>%n aktívnych spojení so sieťou Phase</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -933,16 +933,16 @@
         <translation>Nastavenie PrivateSend</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>Darksend bol úspešne nastavený na základnú hodnotu (%1 a 2 kolá). Toto nastavenie môžete kedykoľvek zmeniť otvorením konfiguračnej obrazovky Proton.</translation>
+        <source>PrivateSend was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Phase's configuration screen.</source>
+        <translation>Darksend bol úspešne nastavený na základnú hodnotu (%1 a 2 kolá). Toto nastavenie môžete kedykoľvek zmeniť otvorením konfiguračnej obrazovky Phase.</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>PrivateSend bol úspešne nastavený na základnú hodnotu (%1 a 8 kôl). Toto nastavenie môžete kedykoľvek zmeniť otvorením konfiguračnej obrazovky Proton.</translation>
+        <source>PrivateSend was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Phase's configuration screen.</source>
+        <translation>PrivateSend bol úspešne nastavený na základnú hodnotu (%1 a 8 kôl). Toto nastavenie môžete kedykoľvek zmeniť otvorením konfiguračnej obrazovky Phase.</translation>
     </message>
     <message>
-        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Proton's configuration screen.</source>
-        <translation>PrivateSend bol úspešne nastavený na maximálnu hodnotu (%1 a 16 kôl). Toto nastavenie môžete kedykoľvek zmeniť otvorením konfiguračnej obrazovky Proton.</translation>
+        <source>PrivateSend was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Phase's configuration screen.</source>
+        <translation>PrivateSend bol úspešne nastavený na maximálnu hodnotu (%1 a 16 kôl). Toto nastavenie môžete kedykoľvek zmeniť otvorením konfiguračnej obrazovky Phase.</translation>
     </message>
 </context>
 <context>
@@ -984,8 +984,8 @@
         <translation>Upraviť odosielaciu adresu</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Proton address.</source>
-        <translation>Zadaná adresa "%1" nie je platná Proton adresa.</translation>
+        <source>The entered address "%1" is not a valid Phase address.</source>
+        <translation>Zadaná adresa "%1" nie je platná Phase adresa.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1085,8 +1085,8 @@
         <translation>Keďže toto je prvý krát čo spúšťate tento program, môžete vybrať kam bude Phase Core ukladať svoje dáta.</translation>
     </message>
     <message>
-        <source>Phase Core will download and store a copy of the Proton block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Phase Core stiahne a uloží kópiu reťazca blokov Proton. Pri najmenej %1GB dát bude uložených v tejto zložke and bude ďalej rásť. Peňaženka bude tiež uložená v tejto zložke.</translation>
+        <source>Phase Core will download and store a copy of the Phase block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Phase Core stiahne a uloží kópiu reťazca blokov Phase. Pri najmenej %1GB dát bude uložených v tejto zložke and bude ďalej rásť. Peňaženka bude tiež uložená v tejto zložke.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1222,8 +1222,8 @@
         <translation>(0 = auto, &lt;0 = nechať toľko jadier voľných)</translation>
     </message>
     <message>
-        <source>Amount of Proton to keep anonymized</source>
-        <translation>Suma Proton ktorú držať anonymne </translation>
+        <source>Amount of Phase to keep anonymized</source>
+        <translation>Suma Phase ktorú držať anonymne </translation>
     </message>
     <message>
         <source>W&amp;allet</source>
@@ -1235,7 +1235,7 @@
     </message>
     <message>
         <source>&amp;Start Phase Core on system login</source>
-        <translation>&amp;Spusť Proton po prihlásení do systému</translation>
+        <translation>&amp;Spusť Phase po prihlásení do systému</translation>
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction&lt;br/&gt;cannot be used until that transaction has at least one confirmation.&lt;br/&gt;This also affects how your balance is computed.</source>
@@ -1258,8 +1258,8 @@
         <translation>Povoliť prichádzajúce spojenia</translation>
     </message>
     <message>
-        <source>Connect to the Proton network through a SOCKS5 proxy.</source>
-        <translation>Pripojiť sa do siete Proton cez proxy SOCKS5.</translation>
+        <source>Connect to the Phase network through a SOCKS5 proxy.</source>
+        <translation>Pripojiť sa do siete Phase cez proxy SOCKS5.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1423,8 +1423,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Forma</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Proton network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky zosynchronizuje so sieťou Proton akonáhle nadviaže spojenie, avšak tento proces ešte nebol dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Phase network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky zosynchronizuje so sieťou Phase akonáhle nadviaže spojenie, avšak tento proces ešte nebol dokončený.</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1654,7 +1654,7 @@ https://www.transifex.com/projects/p/phase/</translation>
     </message>
     <message>
         <source>Cannot start phase: click-to-pay handler</source>
-        <translation>Proton sa nedá spustiť: click-to-pay handler</translation>
+        <translation>Phase sa nedá spustiť: click-to-pay handler</translation>
     </message>
     <message>
         <source>URI handling</source>
@@ -1673,8 +1673,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Neplatná adresa platby %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Proton address or malformed URI parameters.</source>
-        <translation>URI sa nedá analyzovať! Toto môže byť spôsobené neplatnou Proton adresou, alebo nesprávnym tvarom URI parametrov.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Phase address or malformed URI parameters.</source>
+        <translation>URI sa nedá analyzovať! Toto môže byť spôsobené neplatnou Phase adresou, alebo nesprávnym tvarom URI parametrov.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -1747,8 +1747,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a Proton address (e.g. %1)</source>
-        <translation>Zadajte Proton adresu (e.g. %1)</translation>
+        <source>Enter a Phase address (e.g. %1)</source>
+        <translation>Zadajte Phase adresu (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2096,8 +2096,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Znovu použiť jestvujúcu prijímaciu adresu (neodporúča sa)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Proton network.</source>
-        <translation>Pripojiť ku vyžiadanej platbe voliteľnú správu, ktorá sa zobrazí, keď bude žiadosť otvorená. Poznámka: Správa nebude poslaná spolu s platbou cez sieť Proton.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Phase network.</source>
+        <translation>Pripojiť ku vyžiadanej platbe voliteľnú správu, ktorá sa zobrazí, keď bude žiadosť otvorená. Poznámka: Správa nebude poslaná spolu s platbou cez sieť Phase.</translation>
     </message>
     <message>
         <source>&amp;Message:</source>
@@ -2108,8 +2108,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Voliteľný popis ktorý sa pridá k tejto novej prijímajúcej adrese.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Proton network.</source>
-        <translation>Pripojiť ku vyžiadanej platbe voliteľnú správu, ktorá sa zobrazí, keď bude žiadosť otvorená. &lt;br&gt;Poznámka: Správa nebude poslaná spolu s platbou cez sieť Proton.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Phase network.</source>
+        <translation>Pripojiť ku vyžiadanej platbe voliteľnú správu, ktorá sa zobrazí, keď bude žiadosť otvorená. &lt;br&gt;Poznámka: Správa nebude poslaná spolu s platbou cez sieť Phase.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -2366,7 +2366,7 @@ https://www.transifex.com/projects/p/phase/</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for phase transactions than the network can process.</source>
-        <translation>Platenie minimálneho poplatku je v poriadku pokiaľ je objem transakcií menší ako je miesto v bloku. &lt;br /&gt;Buďte opatrný pretože to môže skončiť s nikdy nepotvrdenými transakciami, akonáhle je dopyt po Proton transakciách väčší ako dokáže sieť Proton spracovať.</translation>
+        <translation>Platenie minimálneho poplatku je v poriadku pokiaľ je objem transakcií menší ako je miesto v bloku. &lt;br /&gt;Buďte opatrný pretože to môže skončiť s nikdy nepotvrdenými transakciami, akonáhle je dopyt po Phase transakciách väčší ako dokáže sieť Phase spracovať.</translation>
     </message>
     <message>
         <source>per kilobyte</source>
@@ -2541,8 +2541,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Transakcia bola zamietnutá! Toto sa môže stať ak niektoré coins vo vašej peňaženke už boli minuté, ako keď použijete kópiu wallet.dat a coins boli minuté z kópie ale neoznačené ako minuté tu.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Proton address</source>
-        <translation>Upozornenie: Neplatná Proton adresa</translation>
+        <source>Warning: Invalid Phase address</source>
+        <translation>Upozornenie: Neplatná Phase adresa</translation>
     </message>
     <message>
         <source>Warning: Unknown change address</source>
@@ -2564,8 +2564,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Zapla&amp;tiť:</translation>
     </message>
     <message>
-        <source>The Proton address to send the payment to</source>
-        <translation>Proton adresa pre poslanie platby</translation>
+        <source>The Phase address to send the payment to</source>
+        <translation>Phase adresa pre poslanie platby</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2604,8 +2604,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Správa:</translation>
     </message>
     <message>
-        <source>A message that was attached to the phase: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Proton network.</source>
-        <translation>Správa ktorá bola pripojená ku phase: URI ktorá sa uchová spolu s transakciou pre Vašu referenciu. Poznámka: Táto správa nebude poslaná cez sieť Proton.</translation>
+        <source>A message that was attached to the phase: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Phase network.</source>
+        <translation>Správa ktorá bola pripojená ku phase: URI ktorá sa uchová spolu s transakciou pre Vašu referenciu. Poznámka: Táto správa nebude poslaná cez sieť Phase.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2624,7 +2624,7 @@ https://www.transifex.com/projects/p/phase/</translation>
     <name>ShutdownWindow</name>
     <message>
         <source>Phase Core is shutting down...</source>
-        <translation>Proton core sa vypína...</translation>
+        <translation>Phase core sa vypína...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2642,8 +2642,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>&amp;Podpísať Správu</translation>
     </message>
     <message>
-        <source>The Proton address to sign the message with</source>
-        <translation>Proton adresa na podpísanie správy</translation>
+        <source>The Phase address to sign the message with</source>
+        <translation>Phase adresa na podpísanie správy</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2674,8 +2674,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Kopírovať práve zvolenú adresu do systémového klipbordu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Proton address</source>
-        <translation>Podpísať spravu aby ste dokázali, že vlastníte túto Proton adresu</translation>
+        <source>Sign the message to prove you own this Phase address</source>
+        <translation>Podpísať spravu aby ste dokázali, že vlastníte túto Phase adresu</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2694,12 +2694,12 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>Overiť správu...</translation>
     </message>
     <message>
-        <source>The Proton address the message was signed with</source>
-        <translation>Adresa Proton s ktorou bola podpísaná správa</translation>
+        <source>The Phase address the message was signed with</source>
+        <translation>Adresa Phase s ktorou bola podpísaná správa</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Proton address</source>
-        <translation>Overiť správu pre uistenie, že bola podpísaná zadanou Proton adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Phase address</source>
+        <translation>Overiť správu pre uistenie, že bola podpísaná zadanou Phase adresou</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -3632,7 +3632,7 @@ https://www.transifex.com/projects/p/phase/</translation>
     </message>
     <message>
         <source>Copyright (C) 2014-%i The Phase Core Developers</source>
-        <translation>Autorské práva (C) 2014-%i Vývojári jadra Proton</translation>
+        <translation>Autorské práva (C) 2014-%i Vývojári jadra Phase</translation>
     </message>
     <message>
         <source>Enable the client to act as a masternode (0-1, default: %u)</source>
@@ -3947,8 +3947,8 @@ https://www.transifex.com/projects/p/phase/</translation>
         <translation>V pamäti udržiavať najviac &lt;n&gt; nepotvrdených transakcií (predvolené: %u)</translation>
     </message>
     <message>
-        <source>Disable all Proton specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
-        <translation>Vypnúť všetky funkcie špecifické pre Proton (Masternodes, PrivateSend, InstantSend, Vláda) (0-1, predvolené: %u)</translation>
+        <source>Disable all Phase specific functionality (Masternodes, PrivateSend, InstantSend, Governance) (0-1, default: %u)</source>
+        <translation>Vypnúť všetky funkcie špecifické pre Phase (Masternodes, PrivateSend, InstantSend, Vláda) (0-1, predvolené: %u)</translation>
     </message>
     <message>
         <source>Enable InstantSend, show confirmations for locked transactions (0-1, default: %u)</source>

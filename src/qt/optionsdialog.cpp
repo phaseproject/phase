@@ -90,9 +90,9 @@ OptionsDialog::OptionsDialog(QWidget *parent, bool enableWallet) :
     }
     
     /* Theme selector */
-    //ui->theme->addItem(QString("PHASE-light"), QVariant("light"));
+    ui->theme->addItem(QString("PHASE-light"), QVariant("light"));
     ui->theme->addItem(QString("PHASE-blue"), QVariant("drkblue"));
-    //ui->theme->addItem(QString("PHASE-Crownium"), QVariant("crownium"));
+    ui->theme->addItem(QString("PHASE-Crownium"), QVariant("crownium"));
     //ui->theme->addItem(QString("PHASE-traditional"), QVariant("trad"));
     
     /* Language selector */

@@ -51,7 +51,7 @@ QT_TRANSLATE_NOOP("phase-core", ""
 "Delete all wallet transactions and only recover those parts of the "
 "blockchain through -rescan on startup"),
 QT_TRANSLATE_NOOP("phase-core", ""
-"Disable all Proton specific functionality (Masternodes, PrivateSend, "
+"Disable all Phase specific functionality (Masternodes, PrivateSend, "
 "InstantSend, Governance) (0-1, default: %u)"),
 QT_TRANSLATE_NOOP("phase-core", ""
 "Discover own IP addresses (default: 1 when listening and no -externalip or -"
